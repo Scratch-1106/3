@@ -7,6 +7,7 @@
   <!-- We only include this to explicitly loosen the CSP of various packager environments. It does not provide any security. -->
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob:">
   <title>イカサマルーレット(はい)</title>
+<p><a href=https://sc-lab.pages.dev><font size="2">↩︎TOPへ戻る</font></a></p>
   <style>
     body {
       color: #000000;
